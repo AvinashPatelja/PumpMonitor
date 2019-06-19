@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/pic_four.edf5a784.jpg"
   },
   {
-    "revision": "012f005337576718ba0699ae98dab7d9",
+    "revision": "2b4636c479c2f7b94ec95f445cb9346e",
     "url": "/index.html"
   }
 ];
